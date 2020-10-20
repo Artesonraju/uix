@@ -77,7 +77,6 @@
 (def status-bar (adapt-fn (.-StatusBar ReactNative)))
 (def switch (adapt-fn (.-Switch ReactNative)))
 (def text-input (adapt-fn (.-TextInput ReactNative)))
-(def toolbar-android (adapt-fn (.-ToolbarAndroid ReactNative)))
 (def virtualized-list (adapt-fn (.-VirtualizedList ReactNative)))
 
 
