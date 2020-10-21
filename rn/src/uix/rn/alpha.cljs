@@ -62,7 +62,6 @@
 (def input-accessory-view (adapt-fn (.-InputAccessoryView ReactNative)))
 (def keyboard-avoiding-view (adapt-fn (.-KeyboardAvoidingView ReactNative)))
 (def modal (adapt-fn (.-Modal ReactNative)))
-(def picker-item (adapt-fn (.. ReactNative -Picker -Item)))
 (def refresh-control (adapt-fn (.-RefreshControl ReactNative)))
 (def safe-area-view (adapt-fn (.-SafeAreaView ReactNative)))
 (def scroll-view (adapt-fn (.-ScrollView ReactNative)))
